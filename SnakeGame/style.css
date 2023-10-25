@@ -1,0 +1,29 @@
+html{
+    background-color: beige;
+}
+
+#gameContainer{
+    padding-top: 150px;
+    text-align: center;
+}
+
+#gameBoard{
+    border: 30px solid #6F4E37;
+}
+
+#score{
+    font-size: 80px;
+    font-family: cursive;
+}
+
+#resetBtn{
+    width: 180px;
+    height: 60px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid black;
+    border-radius: 25px;
+    color: black;
+    background-color: navajowhite;
+    cursor: pointer;
+}
